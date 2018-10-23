@@ -73,7 +73,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Super Hero Clicky Game</Title>
+        <Title>40k</Title>
         <Score>Score: {this.state.score}</Score>
         {/* Add score here */}
         <CardWrapper>
